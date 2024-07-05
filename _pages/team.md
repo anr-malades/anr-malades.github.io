@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Equipes
+title: Teams
 permalink: team.html
 ---
