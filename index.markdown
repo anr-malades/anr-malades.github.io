@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Presentation of MALADES Project
+title: ANR MALADES Project
 list_title: Communications
 ---
 
