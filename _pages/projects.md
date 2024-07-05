@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Le Projet
-permalink: projects.html
+title: Resources
+permalink: resources.html
 ---
