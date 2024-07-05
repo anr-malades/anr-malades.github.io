@@ -1,7 +1,7 @@
 ---
 layout: home
 title: ANR MALADES Project
-list_title: Communications
+list_title: News
 ---
 
 <p style="text-align:justify;">The overall scientific objective of the <strong>MALADES project</strong>, funded by the French National Research Agency (ANR), is to provide sovereign Large Language Models (LLMs) for French that are adapted to the biomedical domain and have the additional capability of dynamically integrating verified knowledge extracted from a set of textual data. Healthcare professionals will take advantage of advanced NLP tools that incorporate the latest generative LM breakthrough using vocal interaction. To achieve this, the project addresses <strong>various challenges such as the sensitivity of personal health data, limited material resources, performance evaluation, and integration of voice modality</strong>:</p> 
