@@ -1,20 +1,18 @@
 ---
 layout: home
-title: Site en Construction
+title: Presentation of MALADES Project
 list_title: Communications
 ---
 
-<p style="text-align:justify;">Dans le cadre du projet <strong>MALADES</strong>, nous proposons des approches innovantes pour l'intégration de LLMs dans les centres de santé. Il s'agit de doter ces centres d'outils du TAL dérivés des LLMs et adaptés pour le domaine biomédical en gardant une souveraineté des modèles et un contrôle complet de leurs données de santé. Les travaux que nous menons se concentrent sur quatre axes de recherche :</p> 
+<p style="text-align:justify;">The overall scientific objective of the <strong>MALADES project</strong>, funded by the French National Research Agency (ANR), is to provide sovereign Large Language Models (LLMs) for French that are adapted to the biomedical domain and have the additional capability of dynamically integrating verified knowledge extracted from a set of textual data. Healthcare professionals will take advantage of advanced NLP tools that incorporate the latest generative LM breakthrough using vocal interaction. To achieve this, the project addresses various challenges such as the sensitivity of personal health data, limited material resources, performance evaluation, and integration of voice modality. The MALADES project promises significant scientific advances, including breakthroughs in the aforementioned areas:</p> 
 
-1. <p style="text-align:justify;"> L'étude des aspects légaux et éthiques en France des LLMs pour le domaine biomédical. </p>
+1. <p style="text-align:justify;"> A case-based study of the <strong>legal and ethical aspects of LLMs</strong> and their associated tools in the medical field. </p>
 
-2. L'intégration d'une interaction vocale des LLMs au moyen d'approches end-to-end. incluant la collecte massives de données de parole.
+2. <p style="text-align:justify;"> The massive <strong>collection of health-related speech data</strong> to address the lack of this type of media in health warehouses. This includes the proposition of original approaches to <strong>integrate voice interaction</strong> into LLMs. </p>
 
-3. La collecte de nouveaux cas d'étude originaux orientés pour l'évaluation de modèles de langue génératifs. 
+3. <p style="text-align:justify;"> New use cases to <strong>qualitatively assess LLMs</strong> on generative tasks that are almost non-existent in French. </p>
 
-4. <p style="text-align:justify;"> L'intégration de LLMs dynamiques et souverains pour le domaine biomédical, déployés sur des ressources matérielles contraintes, et intégrant des approches originales fournissant aux LLMs des capacités supplémentaires aux moyens de bases de connaissances maîtrisées et vérifiées. </p>
-
-Nous travaillons activement sur le site.
+4. <p style="text-align:justify;"> Innovative approaches for the construction of <strong>compact</strong>, dynamic and sovereign LLMs for the biomedical field. </p>
 
 <!--![building](img/bip_bop.gif)-->
 
