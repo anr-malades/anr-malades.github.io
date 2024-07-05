@@ -8,7 +8,7 @@ permalink: teams.html
 
 {: .people}
 - ![Avatar](/img/MALADES-logo-seul.png) <br/> [Béatrice Daille](https://www.ls2n.fr/annuaire/Beatrice%20DAILLE/)
-- ![Avatar]([/img/MALADES-logo-seul.png](https://media.licdn.com/dms/image/C4D03AQFKmgS0-xBvqA/profile-displayphoto-shrink_200_200/0/1637703094453?e=2147483647&v=beta&t=dfA_ZdiE8jb2skjJ8XL7X1JYhIgsEWzwgHci_JEqGQ0) <br/> [Richard Dufour](https://cv.hal.science/richard-dufour/)
+- ![Avatar](https://media.licdn.com/dms/image/C4D03AQFKmgS0-xBvqA/profile-displayphoto-shrink_200_200/0/1637703094453?e=2147483647&v=beta&t=dfA_ZdiE8jb2skjJ8XL7X1JYhIgsEWzwgHci_JEqGQ0) <br/> [Richard Dufour](https://cv.hal.science/richard-dufour/)
 - ![Avatar](/img/MALADES-logo-seul.png) <br/> [Solen Quiniou](https://www.ls2n.fr/annuaire/Solen%20QUINIOU/)
 - ![Avatar](/img/MALADES-logo-seul.png) <br/> [Emmanuel Morin](https://www.ls2n.fr/annuaire/Emmanuel%20MORIN/)
 
@@ -35,5 +35,5 @@ permalink: teams.html
 ## Interns
 
 {: .people}
-- ![Avatar](/img/MALADES-logo-seul.png) <br/> [Ikram Belmadani]()
-- ![Avatar](/img/MALADES-logo-seul.png) <br/> [Mohammed Hmitouch]()
+- ![Avatar](/img/MALADES-logo-seul.png) <br/> [Ikram Belmadani]() (2024)
+- ![Avatar](/img/MALADES-logo-seul.png) <br/> [Mohammed Hmitouch]() (2024)
