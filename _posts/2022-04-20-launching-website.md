@@ -1,5 +1,5 @@
 ---
-title: "Test"
+title: "Kickoff of the project"
 date: 2023-10-01
 layout: post
 ---
