@@ -3,18 +3,20 @@ layout: page
 title: Publications
 permalink: publications.html
 ---
-## ["A Zero-shot and Few-shot Study of Instruction-Finetuned Large Language Models Applied to Clinical and Biomedical Tasks"] (2024)
-*Auteurs:* Yanis Labrak, Mickaël Rouvier, Richard Dufour
 
-Pas de lien sur HAL disponible.
+[hal-04621178v1](/hal-04621178v1 "Voir la ressource")  Communication dans un congrès  
+ **[BioMistral: A Collection of Open-Source Pretrained Large Language Models for Medical Domains](/hal-04621178 "Voir la ressource")**  
+_62th Annual Meeting of the Association for Computational Linguistics (ACL'24)_, Aug 2024, Bangkok, Thailand
 
-## ["DrBenchmark: A Large Language Understanding Evaluation Benchmark for French Biomedical Domain"] (2024)
-*Auteurs:* Yanis Labrak, Adrien Bazoge, Oumaima El Khettari, Mickaël Rouvier, Pacôme Constant Dit Beaufils, Natalia Grabar, Béatrice Daille, Solen Quiniou, Emmanuel Morin, Pierre‐antoine Gourraud, Richard Dufour
+[hal-04470938v1](/hal-04470938v1 "Voir la ressource")  Communication dans un congrès  
+ **[DrBenchmark: A Large Language Understanding Evaluation Benchmark for French Biomedical Domain](/hal-04470938 "Voir la ressource")**  
+_Fourteenth Language Resources and Evaluation Conference (LREC-COLING 2024)_, Nicoletta Calzolari; Min-Yen Kan, May 2024, Torino, Italy
 
-Pas de lien sur HAL disponible.
+[hal-04470883v1](/hal-04470883v1 "Voir la ressource")  Communication dans un congrès  
+ **[A Zero-shot and Few-shot Study of Instruction-Finetuned Large Language Models Applied to Clinical and Biomedical Tasks](/hal-04470883 "Voir la ressource")**  
+_Fourteenth Language Resources and Evaluation Conference (LREC-COLING 2024)_, Nicoletta Calzolari; Min-Yen Kan, May 2024, Torino, Italy
 
-## ["How Important Is Tokenization in French Medical Masked Language Models?"] (2024)
-*Auteurs:* Yanis Labrak, Adrien Bazoge, Béatrice Daille, Mickaël Rouvier, Richard Dufour
-
-Pas de lien sur HAL disponible.
+[hal-04472399v2](/hal-04472399v2 "Voir la ressource")  Communication dans un congrès  
+ **[How Important Is Tokenization in French Medical Masked Language Models?](/hal-04472399 "Voir la ressource")**  
+_Fourteenth Language Resources and Evaluation Conference (LREC-COLING 2024)_, Nicoletta Calzolari; Min-Yen Kan, May 2024, Torino, Italy
 
