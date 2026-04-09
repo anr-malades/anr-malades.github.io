@@ -37,7 +37,7 @@ permalink: teams.html
 {: .people}
 - ![Avatar](https://media.licdn.com/dms/image/v2/D4E03AQFkDr9sHAlSzQ/profile-displayphoto-shrink_200_200/B4EZOjMyT_HEAY-/0/1733609859043?e=2147483647&v=beta&t=kYmrCQ6yd0OamYZJMcyx-RnfxJx763o-bVTIkAPHL6E) <br/> [Ikram Belmadani](https://fr.linkedin.com/in/ikram-belmadani-41556b235)
 - ![Avatar](https://taln-ls2n.github.io/img/ngo.jpg) <br/> [Hieu Trung Ngo]()
-- ![Avatar](https://taln-ls2n.github.io/img/ngo.jpg) <br/> [Ricardo Rodriguez]()
+- ![Avatar](/img/MALADES-logo-seul.png) <br/> [Ricardo Rodriguez]()
 
 ## Interns
 
