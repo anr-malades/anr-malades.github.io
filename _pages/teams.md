@@ -7,7 +7,7 @@ permalink: teams.html
 ## LS2N - TALN team - Nantes University
 
 {: .people}
-- ![Avatar](/img/MALADES-logo-seul.png) <br/> [Béatrice Daille](https://www.ls2n.fr/annuaire/Beatrice%20DAILLE/)
+- ![Avatar](https://www.ins2i.cnrs.fr/sites/institut_ins2i/files/styles/top_left/public/image/beatrice_daille.jpg?h=faeb958b&itok=tkUhRaIC) <br/> [Béatrice Daille](https://www.ls2n.fr/annuaire/Beatrice%20DAILLE/)
 - ![Avatar](https://media.licdn.com/dms/image/C4D03AQFKmgS0-xBvqA/profile-displayphoto-shrink_200_200/0/1637703094453?e=2147483647&v=beta&t=dfA_ZdiE8jb2skjJ8XL7X1JYhIgsEWzwgHci_JEqGQ0) <br/> [Richard Dufour](https://cv.hal.science/richard-dufour/)
 - ![Avatar](/img/MALADES-logo-seul.png) <br/> [Solen Quiniou](https://www.ls2n.fr/annuaire/Solen%20QUINIOU/)
 - ![Avatar](/img/MALADES-logo-seul.png) <br/> [Emmanuel Morin](https://www.ls2n.fr/annuaire/Emmanuel%20MORIN/)
