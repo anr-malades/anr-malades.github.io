@@ -4,8 +4,6 @@ title: Publications
 permalink: publications.html
 ---
 
-## Publications
-
 ### Comparative Analysis of Human and Large Language Model Performance in Pharmacology Multiple-Choice Questions
 Conference paper.  
 - HAL: [https://hal.science/hal-05377384](https://hal.science/hal-05377384)  
