@@ -21,5 +21,5 @@ DrBenchmark is a comprehensive evaluation benchmark for assessing the performanc
 
 ### CareMedEval
 CareMedEval is a benchmark designed to evaluate medical language models on healthcare-related tasks and real-world scenarios.  
-- Data and repository: [https://github.com/bonzid/CareMedEval](https://github.com/bonzid/CareMedEval]
+- Data and repository: [https://github.com/bonzid/CareMedEval](https://github.com/bonzid/CareMedEval)
 - Publication (LREC 2026): [https://arxiv.org/abs/2511.03441](https://arxiv.org/abs/2511.03441)
